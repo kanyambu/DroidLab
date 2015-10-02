@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DroidLab</string>
+    
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Satellite">Satellite</string>
+    <string name="Terrain">Terrain</string>
+    <string name="Hybrid">Hybrid</string>
+    <string name="Normal">Normal</string>
+</resources>
